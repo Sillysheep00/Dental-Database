@@ -1,0 +1,11 @@
+billing_id,appointment_id,amount,payment_status
+201,101,120.00,Paid
+202,102,150.00,Paid
+203,103,200.00,Paid
+204,104,180.00,Paid
+205,105,100.00,Paid
+206,106,130.00,Paid
+207,107,170.00,Paid
+208,108,220.00,Paid
+209,109,140.00,Paid
+210,110,160.00,Paid
